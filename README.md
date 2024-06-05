@@ -9,7 +9,6 @@ Inside of your Gatsby project, you'll see the following folders and files:
 
 ```
 /
-├── public/
 ├── src/
 │   └── pages
 │       └── index.js
