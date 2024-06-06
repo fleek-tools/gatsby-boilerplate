@@ -1,4 +1,4 @@
-# Gatsby + Fleek Starter Kit
+# Gatsby Boilerplate
 ![Fleek 2024 Rebrand Gatsby Boilerplate](https://github.com/fleek-tools/gatsby-template/assets/74613246/fbc70aff-0309-45c1-a250-2f290d0baf8c)
 
 
